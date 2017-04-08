@@ -1,0 +1,7 @@
+[user]
+	email = yuan.xiong@intel.com
+	name = abby0100
+[core]
+	editor = vim
+[credential]
+	helper = store
