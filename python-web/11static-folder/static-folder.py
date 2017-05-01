@@ -2,6 +2,9 @@
 
 from flask import Flask, url_for
 
+# 11. static folder #
+app = Flask(__name__, static_folder='/tmp')
+
 # 10. response #
 from flask import jsonify
 from werkzeug.wrappers import Response
